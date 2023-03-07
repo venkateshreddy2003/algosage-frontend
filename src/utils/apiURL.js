@@ -1,1 +1,2 @@
-export const API_URL_USER = "http://localhost:9000/api/v1/users";
+export const API_URL_USER =
+  "https://algosage-backend.onrender.com/api/v1/users";
